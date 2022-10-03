@@ -1,0 +1,16 @@
+{
+  "name": "boappa",
+  "version": "1.0.0",
+  "description": "Automatically set latest available booking date for facility 1 year in to the future",
+  "main": "update-booking.js",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Coroiu",
+  "license": "ISC"
+}

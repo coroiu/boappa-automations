@@ -1,5 +1,5 @@
 {
-  "name": "boappa",
+  "name": "boappa-automations",
   "version": "1.0.0",
   "description": "Automatically set latest available booking date for facility 1 year in to the future",
   "main": "update-booking.js",
